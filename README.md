@@ -14,7 +14,12 @@ This is a project for hackclub (which is really awesome if you want to check it 
 <h2> Firmware (I'll give you a hint, is QMK)</h2>
 <p1>
   -The first rotary encoder changes volume the, second pages up and down in a page.
+  
   -6 keys that I am going to use for macros
+  
   -gooly goodness I don't like qmk, but we perserve!!!!! :)))
+  
+  -Imma make the firmware actually good when the macropad arrives
+  
 <img src="https://yt3.ggpht.com/yknhpgLqxxmp8Dxq2fMxTDps766ZCukeLEOROiSA6fuKehcVt_ZeikQTO_cOGv_hehfstuxfen_b=s1600-c-fcrop64=1,2cc10000d33effff-nd-v1">
 </p1>
