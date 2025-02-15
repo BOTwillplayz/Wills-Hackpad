@@ -23,3 +23,19 @@ This is a project for hackclub (which is really awesome if you want to check it 
   
 <img src="https://yt3.ggpht.com/yknhpgLqxxmp8Dxq2fMxTDps766ZCukeLEOROiSA6fuKehcVt_ZeikQTO_cOGv_hehfstuxfen_b=s1600-c-fcrop64=1,2cc10000d33effff-nd-v1">
 </p1>
+<h2> BOM: </h2>
+<p1>Here's what I need:
+
+-6 Cherry MX keycaps
+
+-6 keycaps
+
+-2 SK6812MINI LED's
+
+-2 EC11 Rotary encoders
+
+-1 XIAO RP2040
+
+-1 Case (2 3D printed parts)
+
+-What ever you think I need </p1>
