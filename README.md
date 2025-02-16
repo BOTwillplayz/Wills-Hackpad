@@ -1,5 +1,5 @@
 <h1>WILLIAMS HACKPAD</h1>
-<p1>HELLO!!!!!! I made an awesome 6 key micropad with 2 rotary encoders and 2 LEDS and uses QMK fw.
+<p1>HELLO!!!! I made an awesome 6 key micropad with 2 rotary encoders and 2 LEDS and uses QMK fw.
 
 This is a project for hackclub (which is really awesome if you want to check it out)</p1>
 <h2>CAD Model:</h2>
